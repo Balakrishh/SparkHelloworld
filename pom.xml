@@ -1,0 +1,21 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+	<modelVersion>4.0.0</modelVersion>
+	<groupId>com.bala</groupId>
+	<artifactId>SparkHelloworld</artifactId>
+	<version>0.0.1-SNAPSHOT</version>
+	<packaging>war</packaging>
+	<description>	</description>
+	<dependencies>
+		<dependency>
+			<groupId>org.mongodb</groupId>
+			<artifactId>mongo-java-driver</artifactId>
+			<version>2.6</version>
+		</dependency>
+		        <dependency>
+            <groupId>spark</groupId>
+            <artifactId>spark</artifactId>
+            <version>0.9.9.4-SNAPSHOT</version>
+        </dependency>
+	</dependencies>
+</project>
