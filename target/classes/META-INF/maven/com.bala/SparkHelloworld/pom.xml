@@ -4,7 +4,6 @@
 	<groupId>com.bala</groupId>
 	<artifactId>SparkHelloworld</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-<<<<<<< HEAD
 	    <properties>
         <maven.compiler.source>1.7</maven.compiler.source>
         <maven.compiler.target>1.7</maven.compiler.target>
@@ -30,20 +29,4 @@
 			</plugin>
 		</plugins>
 	</build>
-=======
-	<packaging>jar</packaging>
-	<description>	</description>
-	<dependencies>
-		<dependency>
-			<groupId>org.mongodb</groupId>
-			<artifactId>mongo-java-driver</artifactId>
-			<version>2.6</version>
-		</dependency>
-		        <dependency>
-            <groupId>spark</groupId>
-            <artifactId>spark</artifactId>
-            <version>0.9.9.4-SNAPSHOT</version>
-        </dependency>
-	</dependencies>
->>>>>>> 568e24a6dabad2b137ac1313f29dc1ec8da17d08
 </project>

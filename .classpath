@@ -30,10 +30,6 @@
 	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
 		<attributes>
 			<attribute name="maven.pomderived" value="true"/>
-<<<<<<< HEAD
-=======
-			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
->>>>>>> 568e24a6dabad2b137ac1313f29dc1ec8da17d08
 		</attributes>
 	</classpathentry>
 	<classpathentry kind="output" path="target/classes"/>
