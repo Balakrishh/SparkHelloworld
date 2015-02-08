@@ -4,7 +4,7 @@
 	<groupId>com.bala</groupId>
 	<artifactId>SparkHelloworld</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<packaging>war</packaging>
+	<packaging>jar</packaging>
 	<description>	</description>
 	<dependencies>
 		<dependency>
